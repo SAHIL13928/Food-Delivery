@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/food-delivery/static/css/main.c079b3fa.css",
+    "main.js": "/food-delivery/static/js/main.3adad3eb.js",
+    "static/js/787.b7c9c4a7.chunk.js": "/food-delivery/static/js/787.b7c9c4a7.chunk.js",
+    "static/media/delivery-bike.png": "/food-delivery/static/media/delivery-bike.cc21caf706f1c260db0a.png",
+    "static/media/hero-2.png": "/food-delivery/static/media/hero-2.cc21caf706f1c260db0a.png",
+    "static/media/logo.png": "/food-delivery/static/media/logo.cc21caf706f1c260db0a.png",
+    "static/media/bootstrap-icons.woff?": "/food-delivery/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/food-delivery/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/pizza.png": "/food-delivery/static/media/pizza.7bfff6a0d9ba26216414.png",
+    "static/media/salad.png": "/food-delivery/static/media/salad.ea7b2580435db2ece0c8.png",
+    "static/media/brand-16.png": "/food-delivery/static/media/brand-16.8ffa9ee11b660cce76dd.png",
+    "static/media/burger-11.jpg": "/food-delivery/static/media/burger-11.ff604b0765322b479e0e.jpg",
+    "index.html": "/food-delivery/index.html",
+    "main.c079b3fa.css.map": "/food-delivery/static/css/main.c079b3fa.css.map",
+    "main.3adad3eb.js.map": "/food-delivery/static/js/main.3adad3eb.js.map",
+    "787.b7c9c4a7.chunk.js.map": "/food-delivery/static/js/787.b7c9c4a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c079b3fa.css",
+    "static/js/main.3adad3eb.js"
+  ]
+}
